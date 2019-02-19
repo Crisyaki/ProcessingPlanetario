@@ -11,4 +11,5 @@ El repositorio consta de:
 -Fichero Satelite que contiene la clase satelite. Un satelite rotará alrededor de un planeta.
 -Fichero Orbita que contiene las coordenadas x,y,z para los objetos del sistema.
 -Carpeta data que contiene todas las imágenes de las texturas. 
-
+# Resultado final
+![alt text](https://github.com/Crisyaki/ProcessingPlanetario/blob/master/resultadoFinal.gif)
